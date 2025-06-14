@@ -1,5 +1,5 @@
 # About Sigortam.Net
-The first and largest insurance marketplace in Turkey, Sigortam.net currently cooperates with 25+ insurance companies to serve 10+ million customers 
+The first and largest insurance marketplace in Turkey, Sigortam.net currently cooperates with 25+ insurance companies to serve 10+ million customers. 
 ### Business Objectives:
 - What are the trends identified?
 - How could these trends apply to Sigortam.Net customers?
